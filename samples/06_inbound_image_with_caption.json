@@ -1,0 +1,27 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "102290129340398",
+      "changes": [
+        {
+          "field": "messages",
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": { "display_phone_number": "4915100000000", "phone_number_id": "106540352242922" },
+            "contacts": [ { "profile": { "name": "Anna Weber" }, "wa_id": "491701110001" } ],
+            "messages": [
+              {
+                "from": "491701110001",
+                "id": "wamid.HBgMNDkxNzAxMTEwMDAxFQIAEhgUOUEwQjFDMkQzRTRGNUE2QjdDOEQA",
+                "timestamp": "1755604200",
+                "type": "image",
+                "image": { "id": "1465700233443371", "mime_type": "image/jpeg", "sha256": "demo", "caption": "This is the socket we need to match" }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

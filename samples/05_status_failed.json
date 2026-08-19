@@ -1,0 +1,26 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "102290129340398",
+      "changes": [
+        {
+          "field": "messages",
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": { "display_phone_number": "4915100000000", "phone_number_id": "106540352242922" },
+            "statuses": [
+              {
+                "id": "wamid.HBgMNDkxNzAxMTEwMDA5FQIAERgSN0Y4RTlEMEMxQjJBMzk0NTYA",
+                "status": "failed",
+                "timestamp": "1755610800",
+                "recipient_id": "491701110009",
+                "errors": [ { "code": 131047, "title": "Re-engagement message outside the 24 hour window" } ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

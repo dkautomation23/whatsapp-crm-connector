@@ -1,0 +1,27 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "102290129340398",
+      "changes": [
+        {
+          "field": "messages",
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": { "display_phone_number": "4915100000000", "phone_number_id": "106540352242922" },
+            "contacts": [ { "profile": { "name": "Jonas Keller" }, "wa_id": "491701110002" } ],
+            "messages": [
+              {
+                "from": "491701110002",
+                "id": "wamid.HBgMNDkxNzAxMTEwMDAyFQIAEhgUNEI1QzZEN0U4RjlBMEIxQzJEM0UA",
+                "timestamp": "1755603600",
+                "type": "text",
+                "text": { "body": "Adding to Anna's request - please quote the annual service plan as well." }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

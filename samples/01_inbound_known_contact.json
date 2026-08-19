@@ -1,0 +1,27 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "102290129340398",
+      "changes": [
+        {
+          "field": "messages",
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": { "display_phone_number": "4915100000000", "phone_number_id": "106540352242922" },
+            "contacts": [ { "profile": { "name": "Anna Weber" }, "wa_id": "491701110001" } ],
+            "messages": [
+              {
+                "from": "491701110001",
+                "id": "wamid.HBgMNDkxNzAxMTEwMDAxFQIAEhgUM0E0QjVDNkQ3RThGOUEwQjFDMkQA",
+                "timestamp": "1755600000",
+                "type": "text",
+                "text": { "body": "Hi, is the industrial gateway G2 still in stock? We need 12 units." }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

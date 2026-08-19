@@ -1,0 +1,27 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "102290129340398",
+      "changes": [
+        {
+          "field": "messages",
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": { "display_phone_number": "4915100000000", "phone_number_id": "106540352242922" },
+            "contacts": [ { "profile": { "name": "Marek" }, "wa_id": "48511222333" } ],
+            "messages": [
+              {
+                "from": "48511222333",
+                "id": "wamid.HBgLNDg1MTEyMjIzMzMVAgASGBQ1QzZEN0U4RjlBMEIxQzJEM0U0RgA",
+                "timestamp": "1755607200",
+                "type": "text",
+                "text": { "body": "Hello, I got your number from a colleague. Do you ship to Poland?" }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,5 @@
 # whatsapp-crm-connector
 
-Sample project demonstrating production web-scraping / automation patterns.
-
 Receives WhatsApp Business Cloud webhooks and writes every conversation into a
 CRM — **against the contact and against the company they belong to**. Sales
 teams lose deals because a customer's WhatsApp thread lives on one salesperson's

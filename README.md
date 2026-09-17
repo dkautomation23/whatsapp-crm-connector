@@ -1,5 +1,7 @@
 # whatsapp-crm-connector
 
+[![CI](https://github.com/dkautomation23/whatsapp-crm-connector/actions/workflows/ci.yml/badge.svg)](https://github.com/dkautomation23/whatsapp-crm-connector/actions/workflows/ci.yml)
+
 Receives WhatsApp Business Cloud webhooks and writes every conversation into a
 CRM — **against the contact and against the company they belong to**. Sales
 teams lose deals because a customer's WhatsApp thread lives on one salesperson's

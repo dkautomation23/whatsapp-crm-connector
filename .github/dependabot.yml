@@ -1,5 +1,3 @@
-# Поставлено скриптом _security/rollout.py. Бесплатно.
-# Следит за уязвимыми версиями подключённых библиотек и сам шлёт PR с обновлением.
 version: 2
 updates:
   - package-ecosystem: "github-actions"

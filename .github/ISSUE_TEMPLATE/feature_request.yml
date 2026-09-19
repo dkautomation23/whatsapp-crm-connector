@@ -1,0 +1,27 @@
+name: Feature request
+description: Suggest an idea for whatsapp-crm-connector.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not paste tokens, API keys, app secrets, or other credentials into this form. Redact them first.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+    validations:
+      required: false

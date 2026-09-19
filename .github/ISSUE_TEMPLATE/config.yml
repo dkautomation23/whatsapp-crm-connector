@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/dkautomation23/whatsapp-crm-connector/security/advisories/new
+    about: Do not open a public issue for security reports — see SECURITY.md.
+  - name: Other questions
+    url: mailto:hello@dkautomation.dev
+    about: Anything that is not a bug report or feature request.

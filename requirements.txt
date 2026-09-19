@@ -6,4 +6,4 @@ python-dotenv>=1.0
 
 # Development / tests
 pytest>=8.0
-anyio>=4.0
+anyio>=4.15.1

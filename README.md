@@ -105,7 +105,7 @@ CRM seeded: Nordwind Supplies GmbH with 2 contacts (Anna Weber, Jonas Keller)
    [2026-08-19T11:10:55Z] inbound  c_a76cdb948f: [image] This is the socket we need to match
 
 6. Unknown numbers are captured and flagged, never dropped
-   c_f672c4dca9  +48511222333  'Marek'  needs_review=True  company=None
+   c_f672c4dca9  +442079460958  'Marek'  needs_review=True  company=None
 
 7. The 24-hour customer service window
    Anna: open=True, closes_at=2026-08-20T11:10:55Z, hours_left=23.2

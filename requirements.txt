@@ -5,5 +5,5 @@ requests>=2.32
 python-dotenv>=1.0
 
 # Development / tests
-pytest>=8.0
+pytest>=9.1.1
 anyio>=4.0
